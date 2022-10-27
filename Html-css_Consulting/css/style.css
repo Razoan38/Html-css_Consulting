@@ -1,0 +1,64 @@
+.banner-section{
+
+    height: 500px;
+    background-image: url("../img/31214.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+
+}
+.banner-caption
+{
+    height: 350px;
+    width: 550px;
+    background-color: white;
+    margin-top: 90px;
+    padding: 10px;
+
+
+}
+.banner-caption-title{
+
+    font-size: 60px;
+
+}
+.btn{
+    border-radius: 0;
+}
+.service-section{
+
+    background-color: #0e3e7f;
+    color: white;
+}
+
+.h-300{ height: 300px!important;}
+
+.counter-section{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.experience-bg
+{
+    min-height: 500px;
+    background-image: url("../img/ng-ex.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.text-ex{
+    color: #C5D4E9;
+    font-size: 60px;
+}
+.experience-mar{
+    margin-top: 100px;
+    padding-right: 90px;
+    padding-left: 35px;
+}
+.line{
+
+    width: 10%;
+    height: 5px;
+    background-color: grey;
+    margin: 10px auto;
+}
